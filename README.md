@@ -77,11 +77,11 @@ Here you would include screenshots showcasing the application's interface, text 
 For example:
 
 * **Homepage/Input Screen:**
-    ![Screenshot 1: EmotionSense Input Screen](screenshots/input_screen.png)
+    ![Screenshot 1: EmotionSense Input Screen](static/6b_deployment_test.png)
     *A clean interface for users to submit their feedback text.*
 
 * **Emotion Analysis Results:**
-    ![Screenshot 2: Emotion Analysis Results](screenshots/results_screen.png)
+    ![Screenshot 2: Emotion Analysis Results](static/7c_error_handling_interface.png)
     *Displaying the detected emotions (e.g., joy, sadness, anger) and their corresponding confidence scores.*
 
 ---
