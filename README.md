@@ -39,7 +39,8 @@ To run EmotionSense locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/jivfur/oaqjp-final-project-emb-ai.git](https://github.com/jivfur/oaqjp-final-project-emb-ai.git)
+    mkdir EmotionSense
+    git clone https://github.com/jivfur/oaqjp-final-project-emb-ai.git EmotionSense
     cd EmotionSense
     ```
 2.  **Create a virtual environment (recommended):**
